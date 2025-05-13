@@ -1,7 +1,7 @@
 # Personal-Finance-Tracker
 
-#About
-
+**About
+**
 #This is a command-line based tool to record, categorize, and analyze your personal income and expenses. This lightweight utility helps you visualize your financial habits and gain insights into your spending behavior over time.
 
 #Features
