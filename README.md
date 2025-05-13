@@ -58,15 +58,3 @@ A command-line based tool to record, categorize, and analyze your personal incom
 
 ---
 
-## 💡 Future Improvements
-
-- Export reports in PDF format  
-- Add budgeting alerts for categories  
-- Multi-user support with login  
-- GUI version using Tkinter or JavaFX  
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
