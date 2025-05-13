@@ -1,14 +1,18 @@
 # Personal-Finance-Tracker
 
-# 💻 Launch Your Software Development Career Today!  
+#About
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+#This is a command-line based tool to record, categorize, and analyze your personal income and expenses. This lightweight utility helps you visualize your financial habits and gain insights into your spending behavior over time.
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+#Features
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+ Log income and expenses easily via the terminal
+
+ Categorize transactions for organized tracking
+
+ Visualize monthly spending trends using dynamic charts
+
+ CSV-based storage for data persistence and portability
+
+ Generate summaries: total income, total expenses, and net savings
+
